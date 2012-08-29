@@ -1,0 +1,3 @@
+Use the following parameters to set the combination and the attempt both equal to empty strings and release the password:
+
+/?attempt=&filename=

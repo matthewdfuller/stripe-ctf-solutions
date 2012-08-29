@@ -1,0 +1,5 @@
+Use the included sha-padding.py file to calculate a new message and signature.
+
+Use:
+
+:$ sha-padding.py 14 "count=2&lat=37.351&user_id=1&long=-119.827&waffle=chicken" "bbab520cfdd9b8b91df1e613b0525d252b7c777b" "&waffle=liege"

@@ -1,0 +1,4 @@
+Enter the following URL in the pingback textbox. Replace the xx2 and xx5 user names with your user names where appropriate.
+Also, change the level05-1 server and the level02-2 server to the correct instance.
+
+https://level05-1.stripe-ctf.com/user-xx5/?pingback=https://level02-2.stripe-ctf.com/user-xx2/uploads/pingback.php
